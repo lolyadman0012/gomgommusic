@@ -1,6 +1,6 @@
 owner=523159342095269898
-prefix=!
-game= !help-!play
+prefix=g
+game= ghelp
 stayinchannel=true
 songinstatus=true
-token=NDk3ODEwNjE0NjcyOTQ5MjU4.D1Xtyg.Xa55ErjRYgYZtQ75ZkfWhqJ8E4I
+token=NTUzOTExOTMyMjMxNjE0NDc2.D2VE0A.sEXk_v4GP4YviHdP7jpiAuzNZoY
