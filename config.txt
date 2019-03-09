@@ -1,4 +1,5 @@
 prefix=g
+owner=336808377726271489
 game= ghelp
 stayinchannel=true
 songinstatus=true
