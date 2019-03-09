@@ -1,4 +1,3 @@
-owner=523159342095269898
 prefix=g
 game= ghelp
 stayinchannel=true
